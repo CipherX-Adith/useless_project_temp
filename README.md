@@ -8,10 +8,10 @@
 
 ## Basic Details
 
-### Team Name: astra
+### Team Name: ASTRA
 
 ### Team Members
-- **Team Lead:** ADITH S KUMAR
+- **Member 1:** ADITH S KUMAR
 - **Member 2:** SOORAJ
 
 ### Project Description
